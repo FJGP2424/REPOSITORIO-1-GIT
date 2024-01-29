@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Estrcutura 1 ejercicio 1</title>
+	</head>
+	<body>
+		 <h1>Las aficiones de un Upgrader</h1>
+		 <ul> 
+		  <li>Programar</li>
+		  <li>Programar</li>
+			<li>Programar</li>
+		</ul>
+	</body>
+</html>
+
